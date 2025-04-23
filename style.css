@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(to right, #eb4034, #b3878d)
+}
+
+#myButton1{
+
+    border-radius: 10px;
+    color: black;
+    background-color: rgb(175, 71, 216);
+    cursor: pointer;
+    
+}
+
+#myButton2{
+    border-radius: 10px;
+    color: black;
+    background-color: rgb(175, 71, 216);
+    cursor: pointer;
+}
